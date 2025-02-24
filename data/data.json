@@ -35,6 +35,13 @@
             "name": "ofir",
             "text": "On February 24, 2025, Green Day made headlines with an electrifying surprise performance at a pop-up concert in New York City’s Central Park. The event, which was organized in celebration of their upcoming album release, caught fans off-guard, drawing massive crowds as word spread through social media. The band played a mix of their classic hits and new tracks, showcasing their signature punk rock sound that fans have loved for decades. The energy was palpable as Billie Joe Armstrong engaged with the audience, sharing anecdotes and emphasizing the themes of rebellion and resilience that have always defined their music. This unannounced concert not only thrilled die-hard fans but also attracted a wave of new listeners, all caught up in the raw, authentic vibe that Green Day consistently delivers.\n\nShowcasing the musical versatility that fans appreciate, Green Day also took the opportunity to highlight some spectacular solo performances from each member during the concert. Guitarists Billie Joe and Jason White delivered powerful solos that resonated with the crowd, reminding",
             "year": "2025-02-24T13:07:33.968Z"
+        },
+        {
+            "_id": "InSro",
+            "name": "ofir",
+            "text": "On January 1, 2023, U2 emerged back into the spotlight, igniting the new year with an electrifying performance in Las Vegas. Known for their powerful live shows and heartfelt lyrics, the band captivated fans with a setlist that blended timeless classics with newer material. The energy in the arena was palpable as Bono, The Edge, Adam Clayton, and Larry Mullen Jr. delivered a visual and auditory spectacle that reminded audiences why they fell in love with U2’s music in the first place. Their ability to connect with listeners through themes of hope, love, and social consciousness resonated deeply, creating an unforgettable experience for everyone present.\n\nIn addition to their live performance, January 2023 marked the release of a special edition album featuring remastered versions of some of their greatest hits, celebrating decades of musical innovation. This release not only honored their legacy but also introduced their iconic sound to a new generation of fans. For long-time supporters, like yourself, who love the band for",
+            "year": "2023-01-01T16:28:57.000Z",
+            "created_at": "2025-02-24T16:29:23.856Z"
         }
     ],
     "images": [
@@ -73,6 +80,13 @@
             "prompt": "Create a stylized fan-art illustration reminiscent of the band green day, \n        performing live on stage in the year 2025-02-24T13:07:33.968Z. Emphasize an energetic punk/rock \n        atmosphere with era-appropriate clothing and instruments. Make it clear they are \n        a legendary band in their prime.",
             "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-wdrGo4B42NM4ZxJq9bjWVp6N/user-K6P4bXFVZQI7taZ6tKYYNUec/img-qBHpbzmAAWljhiE0WbpLeXPT.png?st=2025-02-24T14%3A11%3A32Z&se=2025-02-24T16%3A11%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T17%3A10%3A12Z&ske=2025-02-24T17%3A10%3A12Z&sks=b&skv=2024-08-04&sig=d2tLwABqg8BGKW4N7eiatSPHjjxlW8JG1zLApzefsqo%3D",
             "year": "2025-02-24T13:07:33.968Z"
+        },
+        {
+            "_id": "qJoC8",
+            "prompt": "Create a stylized fan-art illustration reminiscent of the band u2, performing live on stage in the year 2023-01-01T16:28:57.000Z. Emphasize an energetic punk/rock atmosphere with era-appropriate clothing and instruments. Make it clear they are a legendary band in their prime.",
+            "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-wdrGo4B42NM4ZxJq9bjWVp6N/user-K6P4bXFVZQI7taZ6tKYYNUec/img-DIVB12boh7N0wwevdlnJZKVe.png?st=2025-02-24T15%3A29%3A38Z&se=2025-02-24T17%3A29%3A38Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-24T15%3A41%3A35Z&ske=2025-02-25T15%3A41%3A35Z&sks=b&skv=2024-08-04&sig=KfUGorgu7OJaOBlFmiwByEn6vfG570E4aJrLp8vKTYs%3D",
+            "year": "2023-01-01T16:28:57.000Z",
+            "created_at": "2025-02-24T16:29:38.034Z"
         }
     ]
 }
